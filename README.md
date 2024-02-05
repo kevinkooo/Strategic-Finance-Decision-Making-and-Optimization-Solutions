@@ -21,9 +21,11 @@ We formulated both financial decision problems as LP models to determine optimal
 
 ## Insights: We identified optimal solutions for the short-term financing and currency trading problems respectively:
 1. We identified optimal borrowing amounts between bonds and credits for each month to maximize cash flow. The analysis revealed strategic borrowing decisions to navigate negative cash flows while minimizing borrowing costs during positive cash flow periods.
+
 ![image](https://github.com/sallylee0801/Strategic-Finance-Decision-Making-and-Optimization-Solutions/assets/121594845/d292afd3-9e8d-4fc3-b7ae-818e51d044b1)
 
 2. We identified the optimal arbitrage amount and trade executions involving leveraging available funds to buy and sell currencies cyclically to achieve maximum profit.
+
 ![image](https://github.com/sallylee0801/Strategic-Finance-Decision-Making-and-Optimization-Solutions/assets/121594845/f76d7a86-c00c-4011-b0f5-dbc9c7a73b96)
 
 ## Recommendations
