@@ -2,7 +2,7 @@
 
 In this project, we will address two financial optimization problems, short-term financing for the company and currency arbitrage trading, by turning the business problems into linear programming problems and applying Julia JuMP solver to find the optimal solutions.
 
-Author: [Sally Lee](https://github.com/sallylee0801)
+Author: [Sally Lee](https://github.com/sallylee0801), Kevin Ko
 
 Affiliation: The University of Chicago
 
